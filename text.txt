@@ -1,0 +1,6 @@
+- model.py -> thuật toán Linear Regression
+- process.py -> xử lý data vs chạy model
+- app2.py -> streamlit hiển thị giao diện vì báo cáo yêu cầu giao diện
+chạy app2.py -> streamlit run app2.py
+
+- link dataset https://www.kaggle.com/datasets/nguyentiennhan/vietnam-housing-dataset-2024/code
