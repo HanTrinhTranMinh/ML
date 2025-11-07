@@ -60,7 +60,7 @@ class MyOLSLinearRegression:
             "intercept_": self.intercept_,
             "fit_intercept": self.fit_intercept
         }, path)
-        print(f"💾 OLS model saved to {os.path.abspath(path)}")
+        print(f"OLS model saved to {os.path.abspath(path)}")
 
 
 from sklearn.preprocessing import PolynomialFeatures
